@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there ich bin Simon👋
 
-<!--
+
 **simon1508/Simon1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+###🔭 I’m currently working on different projects
+###🌱 I’m currently learning C#, Javascript and HTML,CSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
