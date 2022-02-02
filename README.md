@@ -1,8 +1,12 @@
-### Hi there ich bin Simon👋
+# Hi there I'm Simon👋
+
+### Welcome to my Page
+
+<br>
 
 
--🔭 I’m currently working on different projects<br/>
--🌱 I’m currently learning C#, Javascript, HTML and CSS
+- 🔭 I’m currently working on different projects<br/>
+- 🌱 I’m currently learning C#, Javascript, HTML and CSS
 
 <br/>
 
